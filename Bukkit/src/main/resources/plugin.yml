@@ -1,0 +1,4 @@
+name: Piston
+main: me.ma1de.piston.bukkit.PistonBukkit
+version: 1.0-SNAPSHOT
+author: "ma1de :)"
