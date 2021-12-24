@@ -1,9 +1,14 @@
-## <p align="center">WARNING
-<p align="center">This product is unfinished. Don't use this on a production server, it will never be released. I'll create this in our core
+## Please read this README before editing, using this software
 
-# <p align="center">Piston
-<p align="center">Server Management API for the production server
-  
-#<p align="center"> Dependencies
-<p align="center"> Guava, Spigot API, Lombok, commons-lang3, MongoDB
+# Piston
+The Server Management API made for MineX Network by ma1de.
 
+# License
+Please read the license of this repository [(click here)](https://github.com/MineX-Network/Piston/blob/main/LICENSE)
+
+# Warning
+This is an abandoned, unfinished product. <br/>
+Please don't use this copy of the plugin without changing it on a production server. <br/>
+It's unfinished, but **probably** will be finished in the near future. <br/>
+Also, you are not allowed to claim that this product is yours and you can not sell/resell copy(s) of this software. <br/>
+You have been warned!
