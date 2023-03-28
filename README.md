@@ -1,4 +1,4 @@
-## Please read this README before editing, using this software.
+## Please read this README before editing or using this software.
 
 # Piston
 The Server Management API made for MineX Network by ma1de.
